@@ -80,4 +80,4 @@
 12. Возвращается один объект.
 
 ### Тестирование
-<img width="461" height="802" alt="Image" src="https://github.com/user-attachments/assets/ae93f76a-2094-4575-a6df-7d070bbc6a93" />
+<img width="405" height="856" alt="Image" src="https://github.com/user-attachments/assets/1d1c1e77-a0d9-4e5d-b295-c6461fe66fcb" />

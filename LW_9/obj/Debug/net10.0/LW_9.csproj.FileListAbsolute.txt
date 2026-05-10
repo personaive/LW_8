@@ -1,0 +1,14 @@
+D:\VISUAL STUDIO PROJECTS\LW_9\obj\Debug\net10.0\LW_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIO PROJECTS\LW_9\obj\Debug\net10.0\LW_9.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO PROJECTS\LW_9\obj\Debug\net10.0\LW_9.AssemblyInfo.cs
+D:\VISUAL STUDIO PROJECTS\LW_9\obj\Debug\net10.0\LW_9.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO PROJECTS\LW_9\bin\Debug\net10.0\LW_9.exe
+D:\VISUAL STUDIO PROJECTS\LW_9\bin\Debug\net10.0\LW_9.deps.json
+D:\VISUAL STUDIO PROJECTS\LW_9\bin\Debug\net10.0\LW_9.runtimeconfig.json
+D:\VISUAL STUDIO PROJECTS\LW_9\bin\Debug\net10.0\LW_9.dll
+D:\VISUAL STUDIO PROJECTS\LW_9\bin\Debug\net10.0\LW_9.pdb
+D:\VISUAL STUDIO PROJECTS\LW_9\obj\Debug\net10.0\LW_9.dll
+D:\VISUAL STUDIO PROJECTS\LW_9\obj\Debug\net10.0\refint\LW_9.dll
+D:\VISUAL STUDIO PROJECTS\LW_9\obj\Debug\net10.0\LW_9.pdb
+D:\VISUAL STUDIO PROJECTS\LW_9\obj\Debug\net10.0\LW_9.genruntimeconfig.cache
+D:\VISUAL STUDIO PROJECTS\LW_9\obj\Debug\net10.0\ref\LW_9.dll
